@@ -1,0 +1,22 @@
+Interview Questions
+
+1. You’re sitting at a Starbucks enjoying a macchiato and free public Wi-Fi. How would you go about hacking other people on the network?
+2. If you had toexfiltrate data from an envrionment, how would you do it?
+3. Can you describe or explain in as much detail as you can what the OWASP top ten are?
+4. Do you have prior experience in working in security? And have you participated in any CTFs or bug bounty programs?
+5. How would you implement an S-SDLC in a CI/CD scenario? Feel free to list any tools you would use
+6. Explain what happens when ‘google.com’ is entered in a browser’s address bar?
+7. Are you a Mac/Windows/Linux person? Which OS is most secure?
+8. Which approach is better—a manual security test or an automated security test?
+9. What is the difference between white box, grey box, and black box testing? Which is better?
+10. How would you perform a security/penetration test on a Web application covering the following scenarios: Unauthenticated tests on login page; Authenticated tests with one user account; Authenticated tests with multiple user accounts
+11. What is the difference between encryption, encoding, and hashing?
+12. What is the difference between asymmetric and symmetric cryptography?
+13. What is the last/biggest/best program you wrote? What programming language(s) did you use to write it? and why?
+14. What security podcasts/blogs/websites do you follow? and are you part of any local security group (OWASP chapters/meetup groups)?
+15. What is the most interesting vulnerability you’ve found?
+
+# Sources
+https://www.glassdoor.com/Interview/Microsoft-Security-Engineer-Interview-Questions-EI_IE1651.0,9_KO10,27.htm
+https://www.glassdoor.com/Interview/applications-security-engineer-interview-questions-SRCH_KO0,30.htm
+https://www.synopsys.com/blogs/software-security/web-appsec-interview-questions/
